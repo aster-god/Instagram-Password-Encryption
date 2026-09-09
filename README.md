@@ -2,10 +2,10 @@
 
 This module provides a function to encrypt passwords for the `enc_password` parameter used during Instagram's web login process. The encryption process involves several steps including AES-GCM encryption and formatting the encrypted data in a specific way that Instagram's servers expect.
 
-![Instagram Password Encryption Banner](https://github.com/glizzykingdreko/instagram-password-encryption/raw/main/img/banner.png)
+![Instagram Password Encryption Banner](https://github.com/aster-god/instagram-password-encryption/raw/main/img/banner.png)
 
 [![npm version](https://img.shields.io/npm/v/instagram-password-encryption.svg)](https://www.npmjs.com/package/instagram-password-encryption)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-instagram--password--encryption-blue?style=flat&logo=github)](https://github.com/glizzykingdreko/instagram-password-encryption)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-instagram--password--encryption-blue?style=flat&logo=github)](https://github.com/aster-god/instagram-password-encryption)
 
 
 
@@ -66,10 +66,3 @@ The provided default values for `version`, `keyID`, and `publicKey` are examples
 
 ## License
 This project is licensed under the MIT [License](LICENSE). See the LICENSE file for more details.
-
-## My links
-- [Website](https://glizzykingdreko.github.io)
-- [GitHub](https://github.com/glizzykingdreko)
-- [Twitter](https://mobile.twitter.com/glizzykingdreko)
-- [Medium](https://medium.com/@glizzykingdreko)
-- [Email](mailto:glizzykingdreko@protonmail.com)
